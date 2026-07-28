@@ -55,9 +55,9 @@ Coming soon...
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/amaan-sharif-794aa8315/">LinkedIn</a>
   •
-  <a href="mailto:YOURMAIL@gmail.com">Email</a>
+  <a href="mailto:a.sharifff06@gmail.com">Email</a>
 </p>
 
 ---
