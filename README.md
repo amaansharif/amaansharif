@@ -12,8 +12,8 @@ exploring AI, and creating projects that solve real-world problems.
 
 ## 🛠 Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,react,nextjs,nodejs,mongodb,postgres,tailwind,git,github,vscode,docker&perline=7" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,react,nextjs,nodejs,mongodb,postgres,tailwind,git,github,vscode,docker&perline=20" />
 </p>
 
 ## 🌟 Featured Projects
