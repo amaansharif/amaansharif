@@ -5,9 +5,10 @@ exploring AI, and creating projects that solve real-world problems.
 
 ## 🚀 Currently
 
-- 💻 Building personal projects
-- 🤖 Learning AI and modern web technologies
-- 🌱 Improving my problem-solving skills
+- 🎓 Student
+- 💻 Full Stack Developer
+- 🤖 Interested in AI
+- 🎸 Guitar enthusiast
 
 ## 🛠 Languages & Tools
 
