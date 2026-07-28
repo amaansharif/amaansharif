@@ -1,29 +1,67 @@
-# Hey, I'm Amaan 👋
+<h1 align="center">Hey, I'm Amaan 👋</h1>
 
-I'm a student developer passionate about building full-stack applications,
-exploring AI, and creating projects that solve real-world problems.
+<p align="center">
+  Student Developer • Full Stack • AI Enthusiast
+</p>
+
+<p align="center">
+  I enjoy building full-stack applications, exploring AI, and creating projects that solve real-world problems.
+</p>
+
+---
 
 ## 🚀 Currently
 
 - 🎓 Student
-- 💻 Full Stack Developer
-- 🤖 Interested in AI
+- 💻 Building full-stack applications
+- 🤖 Exploring AI and modern web technologies
 - 🎸 Guitar enthusiast
 
-## 🛠 Languages & Tools
+---
+
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,react,nextjs,nodejs,mongodb,postgres,tailwind,git,github,vscode,docker&perline=20" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,react,nextjs,nodejs,mongodb,postgres,tailwind,git,github,vscode,docker&perline=8" />
 </p>
 
-## 🌟 Featured Projects
+---
+
+## 📌 Featured Projects
 
 Coming soon...
 
+> I'm currently building projects that I'll be showcasing here.
+
+---
+
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats Card -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amaansharif&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaansharif&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-<!-- Top Languages Card -->
+---
 
-> *Building. Learning. Improving.*
+## 🌱 Currently Learning
+
+- Next.js
+- Docker
+- AI Development
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
+  •
+  <a href="mailto:YOURMAIL@gmail.com">Email</a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Building. Learning. Improving."</i>
+</p>
